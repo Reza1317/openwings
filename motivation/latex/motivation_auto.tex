@@ -1,0 +1,100 @@
+% academic work by Reza and Alireza Hosseini
+% copyright (2015): Reza/Alireza Hosseini
+% all this code was generated on authors own time
+% authors did not receive any funding
+% or were not employed at time of this work
+% pdflatex ~/Dropbox/codes/academic/bike_sharing/latex/bike_sharing.tex
+\documentclass[11pt,twoside,openany]{article}
+\usepackage{
+	amscd,
+	amsbsy,
+	amsfonts,
+	amsmath,
+	amssymb,
+	booktabs,
+	color,
+	enumerate,
+	float,
+	graphics,
+	graphicx,
+	geometry,
+	latexsym,
+	multirow,
+	natbib,
+    subcaption,
+	times,
+	verbatim,
+	xcolor}
+
+%\usepackage[top=25mm, bottom=25mm, left=37.5mm, right=37.5mm]{geometry}
+\graphicspath{
+  {figs/}
+  {figs/v1/}
+  {figs/v2/}
+  {diagrams/}
+  {emojis/}}
+
+\newcommand{\E}{\mathop{{}\mathbb{E}}}
+\newcommand{\var}{\text{Var}}
+\newcommand{\bX}{{\bf X}}
+\newcommand{\btX}{{\bf \tilde{X}}}
+\newcommand{\btY}{{\bf \tilde{Y}}}
+\newcommand{\bY}{{\bf Y}}
+\newcommand{\bU}{{\bf U}}
+\newcommand{\bZ}{{\bf Z}}
+\newcommand{\bW}{{\bf W}}
+\newcommand{\bWtilde}{{\bf \tilde{W}}}
+\newcommand{\btW}{{\bf \tilde{W}}}
+\newcommand{\tW}{{\tilde{W}}}
+\newcommand{\bbeta}{{\bf \beta}}
+\newcommand{\btheta}{{\bf \theta}}
+\newcommand{\bPhi}{{\Phi}}
+\newcommand{\bepsilon}{{\bf \epsilon}}
+\newcommand{\bA}{{\bf A}}
+\newcommand{\bphi}{{\bf \phi}}
+\newcommand{\btau}{{\bf \tau}}
+\newcommand{\bpsi}{{\bf \psi}}
+\newcommand{\bPsi}{{\bf \Psi}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\logit}{\mbox{logit}}
+\setlength{\parindent}{12mm}
+\setlength{\oddsidemargin}{12mm}
+\setlength{\evensidemargin}{12mm}
+\setlength{\topmargin}{-7mm}
+\setlength{\textwidth}{150mm}
+\newcommand{\QED}{\hspace*{\fill}\rule{2.5mm}{2.5mm}}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}{Definition}[section]
+\renewcommand{\vec}[1]{\mbox{\boldmath $#1$}}
+\newenvironment{proof}{\noindent{\bf Proof\ }}{\QED\\}
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{hypothesis}{Hypothesis}[section]
+\newtheorem{corollary}{Corollary}[section]
+\renewcommand\floatpagefraction{.9}
+\renewcommand\topfraction{.9}
+\renewcommand\textfraction{.1}
+\setcounter{totalnumber}{50}
+\setcounter{topnumber}{50}
+\setcounter{bottomnumber}{50}
+\newcommand{\mysum}{\Sigma}
+
+% to input tables
+\newcommand*\inputtable[1]{\input{./tables/#1.tex}}
+
+
+%\newtheorem{example}{Example}[section]
+%\newenvironment{example}[1][Example]{\begin{trivlist}
+\begin{document}
+
+
+
+\input{motivation_body.tex}
+
+
+
+\end{document}
