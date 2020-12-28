@@ -3,7 +3,7 @@ entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **motivation_auto.tex
-(outputs/v4/motivation_auto.tex
+(./motivation_auto.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
@@ -384,12 +384,7 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 LaTeX Warning: Unused global option(s):
     [openany].
 
-(outputs/v4/motivation_auto.aux
-
-LaTeX Warning: Label `correlation_conf_interval_across_variables' multiply defi
-ned.
-
-)
+(outputs/v5/motivation_auto.aux)
 \openout1 = `motivation_auto.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
@@ -408,7 +403,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
 7.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -461,7 +457,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(outputs/v4/motivation_body.tex
+(./motivation_body.tex
 <figs/v2/correlation_over_time.png, id=1, 2107.875pt x 2107.875pt>
 File: figs/v2/correlation_over_time.png Graphic file (type png)
 <use figs/v2/correlation_over_time.png>
@@ -495,39 +491,31 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )) [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <outputs
-/v4/figs/v2/correlation_over_time.png> <outputs/v4/figs/v2/correlation_across_a
+/v5/figs/v2/correlation_over_time.png> <outputs/v5/figs/v2/correlation_across_a
 ggregate_variables.png>] (./tables/v2/correlation_conf_interval_across_variable
-s.tex)
-(./tables/v2/correlation_conf_interval_across_variables.tex
+s.tex))
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
 Overfull \vbox (19.54526pt too high) has occurred while \output is active []
 
 
-[3]))
-Overfull \vbox (19.54526pt too high) has occurred while \output is active []
-
-
-[4] (outputs/v4/motivation_auto.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[3] (outputs/v5/motivation_auto.aux) ) 
 Here is how much of TeX's memory you used:
- 6766 strings out of 480608
- 100934 string characters out of 5903631
- 392165 words of memory out of 5000000
+ 6764 strings out of 480608
+ 100780 string characters out of 5903631
+ 375126 words of memory out of 5000000
  22501 multiletter control sequences out of 15000+600000
  541225 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,10n,100p,447b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on outputs/v4/motivation_auto.pdf (4 pages, 429438 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts
+/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/time
+s/utmr8a.pfb>
+Output written on outputs/v5/motivation_auto.pdf (3 pages, 426106 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

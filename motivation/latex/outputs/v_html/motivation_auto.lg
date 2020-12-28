@@ -1,0 +1,323 @@
+htfcss:  pcrr7t  font-family: 'Nimbus Mono L', serif;
+htfcss:  pcrbo7t  font-weight: bold; font-style: oblique; font-family: 'Nimbus Mono L', serif;
+htfcss: ptmr7t font-family: monospace,monospace;
+htfcss:  pcrr7t  font-family: 'Nimbus Mono L', serif;
+htfcss: ptmr7t font-family: monospace,monospace;
+File: motivation_auto.html
+File: motivation_auto.css
+File: motivation_auto.tmp
+Css: p{margin-top:0;margin-bottom:0}
+Css: p.indent{text-indent:0;}
+Css: p + p{margin-top:1em;}
+Css: p + div, p + pre {margin-top:1em;}
+Css: div + p, pre + p {margin-top:1em;}
+Css: @media print {div.crosslinks {visibility:hidden;}}
+Css: a img { border-top: 0; border-left: 0; border-right: 0; }
+Font_Css("4"): .small-caps{font-variant: small-caps; }
+Font_Css("10"): .htf-cmbx {font-weight: bold; font-style:normal;}
+Font_Css("12"): .htf-calligraphy {font-family:cursive}
+Font_Css("14"): .htf-italic {font-style: italic;}
+Font_Css("16"): .htf-bold {font-weight: bold;}
+Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
+Css: center { margin-top:1em; margin-bottom:1em; }
+Css: td center { margin-top:0em; margin-bottom:0em; }
+Css: .Canvas { position:relative; }
+Css: img.math{vertical-align:middle;}
+Css: li p.indent { text-indent: 0em }
+Css: li p:first-child{ margin-top:0em; }
+Css: li p:last-child, li div:last-child { margin-bottom:0.5em; }
+Css: li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+Css: .enumerate1 {list-style-type:decimal;}
+Css: .enumerate2 {list-style-type:lower-alpha;}
+Css: .enumerate3 {list-style-type:lower-roman;}
+Css: .enumerate4 {list-style-type:upper-alpha;}
+Css: div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+Css: .obeylines-h,.obeylines-v {white-space: nowrap; }
+Css: div.obeylines-v p { margin-top:0; margin-bottom:0; }
+Css: .overline{ text-decoration:overline; }
+Css: .overline img{ border-top: 1px solid black; }
+Css: td.displaylines {text-align:center; white-space:nowrap;}
+Css: .centerline {text-align:center;}
+Css: .rightline {text-align:right;}
+Css: div.verbatim {font-family: monospace,monospace; white-space: nowrap; text-align:left; clear:both; }
+Css: .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.fbox {display:table}
+Css: div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.minipage{width:100%;}
+Css: div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+Css: div.center div {text-align: left;}
+Css: div.flushright, div.flushright div.flushright {text-align: right;}
+Css: div.flushright div {text-align: left;}
+Css: div.flushleft {text-align: left;}
+Css: .underline{ text-decoration:underline; }
+Css: .underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+Css: .framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: .framebox-c {text-align:center;}
+Css: .framebox-l {text-align:left;}
+Css: .framebox-r {text-align:right;}
+Css: span.thank-mark{ vertical-align: super }
+Css: span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+Css: div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+Css: table.tabular td p{margin-top:0em;}
+Css: table.tabular {margin-left: auto; margin-right: auto;}
+Css: td p:first-child{ margin-top:0em; }
+Css: td p:last-child{ margin-bottom:0em; }
+Css: div.td00{ margin-left:0pt; margin-right:0pt; }
+Css: div.td01{ margin-left:0pt; margin-right:5pt; }
+Css: div.td10{ margin-left:5pt; margin-right:0pt; }
+Css: div.td11{ margin-left:5pt; margin-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: td.td00{ padding-left:0pt; padding-right:0pt; }
+Css: td.td01{ padding-left:0pt; padding-right:5pt; }
+Css: td.td10{ padding-left:5pt; padding-right:0pt; }
+Css: td.td11{ padding-left:5pt; padding-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: .hline hr, .cline hr{ height : 0px; margin:0px; }
+Css: .hline td, .cline td{ padding: 0; }
+Css: .hline hr, .cline hr{border:none;border-top:1px solid black;}
+Css: .tabbing-right {text-align:right;}
+Css: div.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: div.float img {text-align:center;}
+Css: div.figure img {text-align:center;}
+Css: .marginpar,.reversemarginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+Css: .marginpar p,.reversemarginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+Css: .reversemarginpar{float:left;}
+Css: table.equation {width:100%;}
+Css: .equation td{text-align:center; }
+Css: td.equation { margin-top:1em; margin-bottom:1em; } 
+Css: td.equation-label { width:5%; text-align:center; }
+Css: td.eqnarray4 { width:5%; white-space: normal; }
+Css: td.eqnarray2 { width:5%; }
+Css: table.eqnarray-star, table.eqnarray {width:100%;}
+Css: div.eqnarray{text-align:center;}
+Css: div.array {text-align:center;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.pmatrix img{vertical-align:middle;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.bar-css {text-decoration:overline;}
+Css: img.cdots{vertical-align:middle;}
+Css: .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+Css: .index-item, .index-subitem, .index-subsubitem {display:block}
+Css: div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+Css: div.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: h1.partHead{text-align: center}
+Css: p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: .paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+Css: .subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+Css: .quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+Css: .verse{white-space:nowrap; margin-left:2em}
+Css: div.maketitle {text-align:center;}
+Css: h2.titleHead{text-align:center;}
+Css: div.maketitle{ margin-bottom: 2em; }
+Css: div.author, div.date {text-align:center;}
+Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+Css: div.author{white-space: nowrap;}
+Font_Size: 11
+Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+Css: .abstract p {margin-left:5%; margin-right:5%;}
+Css: div.abstract {width:100%;}
+Css: .rotatebox{display: inline-block;}
+Css: .figure img.graphics {margin-left:10%;}
+Css: .CD {text-align:center}
+Css: .equation td{text-align:center; }
+Css: .equation-star td{text-align:center; }
+Css: table.equation-star { width:100%; }
+Css: table.equation { width:100%; }
+Css: table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-left:5%; white-space: nowrap;}
+Css: table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto; margin-right:auto; white-space: nowrap;}
+Css: td.align-label { width:5%; text-align:center; }
+Css: td.align-odd { text-align:right; padding-right:0.3em;}
+Css: td.align-even { text-align:left; padding-right:0.6em;}
+Css: table.multline, table.multline-star {width:100%;}
+Css: td.gather {text-align:center; }
+Css: table.gather {width:100%;}
+Css: div.gather-star {text-align:center;}
+Css: dd.enumerate {margin-left: 2em;}
+Css: dt.enumerate {float:left; clear:left; margin-right:0.5em; margin-left:0.5em; text-align:right; }
+Css: div.verbatiminput {font-family: monospace,monospace; white-space: nowrap; }
+File: figs/v2/correlation_over_time.png
+File: figs/v2/correlation_across_aggregate_variables.png
+Css: #TBL-1 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-1{border-collapse:collapse;}
+Css: #TBL-1 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-1{border-collapse:collapse;}
+Css: #TBL-1 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-1{border-collapse:collapse;}
+Css: #TBL-1 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-1{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: #TBL-2 colgroup{border-left: 1px solid black;border-right:1px solid black;}
+Css: #TBL-2{border-collapse:collapse;}
+Css: span#textcolor1{color:#0000FF}
+Css: span#textcolor2{color:#FF0000}
+Css: span#textcolor3{color:#FF0000}
+Css: span#textcolor4{color:#FF0000}
+Css: span#textcolor5{color:#0000FF}
+Css: span#textcolor6{color:#0000FF}
+Css: span#textcolor7{color:#0000FF}
+Css: span#textcolor8{color:#0000FF}
+Css: span#textcolor9{color:#FF0000}
+Css: span#textcolor10{color:#0000FF}
+Css: span#textcolor11{color:#0000FF}
+Css: span#textcolor12{color:#0000FF}
+Css: span#textcolor13{color:#0000FF}
+Css: span#textcolor14{color:#FF0000}
+Css: span#textcolor15{color:#0000FF}
+Css: span#textcolor16{color:#0000FF}
+Css: span#textcolor17{color:#0000FF}
+Css: span#textcolor18{color:#FF0000}
+Css: span#textcolor19{color:#FF0000}
+Css: span#textcolor20{color:#FF0000}
+Css: span#textcolor21{color:#FF0000}
+Css: span#textcolor22{color:#FF0000}
+Css: span#textcolor23{color:#FF0000}
+Css: span#textcolor24{color:#FF0000}
+Css: span#textcolor25{color:#0000FF}
+Css: span#textcolor26{color:#0000FF}
+Css: span#textcolor27{color:#0000FF}
+Css: span#textcolor28{color:#FF0000}
+Css: span#textcolor29{color:#FF0000}
+Css: span#textcolor30{color:#FF0000}
+Css: span#textcolor31{color:#FF0000}
+Css: span#textcolor32{color:#FF0000}
+Css: span#textcolor33{color:#FF0000}
+Css: span#textcolor34{color:#FF0000}
+Css: span#textcolor35{color:#FF0000}
+Css: span#textcolor36{color:#0000FF}
+Css: span#textcolor37{color:#0000FF}
+Css: span#textcolor38{color:#0000FF}
+Css: span#textcolor39{color:#FF0000}
+Css: span#textcolor40{color:#FF0000}
+Css: span#textcolor41{color:#FF0000}
+Css: span#textcolor42{color:#FF0000}
+Css: span#textcolor43{color:#FF0000}
+Css: span#textcolor44{color:#FF0000}
+Css: span#textcolor45{color:#0000FF}
+Css: span#textcolor46{color:#FF0000}
+Css: span#textcolor47{color:#FF0000}
+Css: span#textcolor48{color:#FF0000}
+Css: span#textcolor49{color:#0000FF}
+Css: span#textcolor50{color:#0000FF}
+Css: span#textcolor51{color:#0000FF}
+Css: span#textcolor52{color:#0000FF}
+Css: span#textcolor53{color:#0000FF}
+Css: span#textcolor54{color:#0000FF}
+Css: span#textcolor55{color:#0000FF}
+Css: span#textcolor56{color:#0000FF}
+Css: span#textcolor57{color:#0000FF}
+Css: span#textcolor58{color:#0000FF}
+Css: span#textcolor59{color:#0000FF}
+Css: span#textcolor60{color:#0000FF}
+Css: span#textcolor61{color:#0000FF}
+Css: span#textcolor62{color:#0000FF}
+Css: span#textcolor63{color:#0000FF}
+Css: span#textcolor64{color:#0000FF}
+Css: span#textcolor65{color:#0000FF}
+Css: span#textcolor66{color:#0000FF}
+Css: span#textcolor67{color:#0000FF}
+Css: span#textcolor68{color:#FF0000}
+Css: span#textcolor69{color:#FF0000}
+Css: span#textcolor70{color:#FF0000}
+Css: span#textcolor71{color:#0000FF}
+Css: span#textcolor72{color:#0000FF}
+Css: span#textcolor73{color:#0000FF}
+Css: span#textcolor74{color:#0000FF}
+Css: span#textcolor75{color:#0000FF}
+Css: span#textcolor76{color:#0000FF}
+Css: span#textcolor77{color:#0000FF}
+Css: span#textcolor78{color:#0000FF}
+Css: span#textcolor79{color:#0000FF}
+Css: span#textcolor80{color:#FF0000}
+Css: span#textcolor81{color:#FF0000}
+Css: span#textcolor82{color:#FF0000}
+Css: span#textcolor83{color:#0000FF}
+Css: span#textcolor84{color:#0000FF}
+Css: span#textcolor85{color:#0000FF}
+Css: span#textcolor86{color:#0000FF}
+Css: span#textcolor87{color:#0000FF}
+Css: span#textcolor88{color:#0000FF}
+Css: span#textcolor89{color:#0000FF}
+Css: span#textcolor90{color:#0000FF}
+Css: span#textcolor91{color:#FF0000}
+Css: span#textcolor92{color:#FF0000}
+Css: span#textcolor93{color:#FF0000}
+Css: span#textcolor94{color:#FF0000}
+Css: span#textcolor95{color:#0000FF}
+Css: span#textcolor96{color:#0000FF}
+Css: span#textcolor97{color:#0000FF}
+Css: span#textcolor98{color:#FF0000}
+Css: span#textcolor99{color:#FF0000}
+Css: span#textcolor100{color:#FF0000}
+Css: span#textcolor101{color:#0000FF}
+Css: span#textcolor102{color:#0000FF}
+Css: span#textcolor103{color:#0000FF}
+Css: span#textcolor104{color:#0000FF}
+Css: span#textcolor105{color:#0000FF}
+Css: span#textcolor106{color:#0000FF}
+Css: span#textcolor107{color:#0000FF}
+Css: span#textcolor108{color:#0000FF}
+Css: span#textcolor109{color:#0000FF}
+Css: span#textcolor110{color:#FF0000}
+Css: span#textcolor111{color:#FF0000}
+Css: span#textcolor112{color:#FF0000}
+Css: span#textcolor113{color:#0000FF}
+Css: span#textcolor114{color:#0000FF}
+Css: span#textcolor115{color:#0000FF}
+Css: span#textcolor116{color:#0000FF}
+Css: span#textcolor117{color:#0000FF}
+Css: span#textcolor118{color:#0000FF}
+Css: span#textcolor119{color:#0000FF}
+Css: span#textcolor120{color:#0000FF}
+Css: span#textcolor121{color:#0000FF}
+Css: span#textcolor122{color:#FF0000}
+Css: span#textcolor123{color:#0000FF}
+Css: span#textcolor124{color:#0000FF}
+Css: span#textcolor125{color:#0000FF}
+Css: span#textcolor126{color:#0000FF}
+Css: span#textcolor127{color:#0000FF}
+Css: span#textcolor128{color:#0000FF}
+Css: span#textcolor129{color:#0000FF}
+Css: span#textcolor130{color:#0000FF}
+Css: span#textcolor131{color:#0000FF}
+Css: span#textcolor132{color:#0000FF}
+Css: span#textcolor133{color:#0000FF}
+Css: span#textcolor134{color:#0000FF}
+Css: span#textcolor135{color:#0000FF}
+Css: span#textcolor136{color:#0000FF}
+Css: span#textcolor137{color:#0000FF}
+Css: #adjustbox-1{border: 0.06667em solid black;padding: 0.5em;}
+--- characters ---
+Font("ptmr7t","","10","109")
+Font("pcrr7t","","10","109")
+Font("ptmr7t","","10","60")
+Font("pcrr7t","","10","60")

@@ -1,0 +1,6 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-3}{}{\numberline {1}{\ignorespaces Correlation over time\relax }}}{3}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-5}{}{\numberline {2}{\ignorespaces Correlation across aggregate variables\relax }}}{6}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-7}{}{\numberline {1}{\ignorespaces Correlation over time\relax }}}{9}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-9}{}{\numberline {2}{\ignorespaces Correlation conf interval across variables\relax }}}{13}\relax 
+\par 

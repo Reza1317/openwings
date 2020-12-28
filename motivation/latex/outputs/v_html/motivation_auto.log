@@ -1,0 +1,1018 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2020.4.7)  27 DEC 2020 22:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode .a.b.c.\input  motivation_a
+uto
+ (./motivation_auto.tex
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2020-02-18-14:17
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-03-12-14:03
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count175
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-03-12-14:03
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box45
+)
+\tc@llx=\dimen137
+\tc@lly=\dimen138
+\tc@urx=\dimen139
+\tc@ury=\dimen140
+Package trimclip Info: Using driver 'tc-dvips.def'.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/tc-dvips.def
+File: tc-dvips.def 2019/01/04 v2.2 Clipping driver for dvips
+))
+\adjbox@Width=\dimen141
+\adjbox@Height=\dimen142
+\adjbox@Depth=\dimen143
+\adjbox@Totalheight=\dimen144
+\adjbox@pwidth=\dimen145
+\adjbox@pheight=\dimen146
+\adjbox@pdepth=\dimen147
+\adjbox@ptotalheight=\dimen148
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count176
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box46
+\sift@deathcycles=\count177
+\@vwid@loff=\dimen149
+\@vwid@roff=\dimen150
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen151
+)
+\athelp@=\toks19
+\minaw@=\dimen152
+\bigaw@=\dimen153
+\minCDarrowwidth=\dimen154
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen155
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count178
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count179
+\leftroot@=\count180
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count181
+\DOTSCASE@=\count182
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count183
+\c@MaxMatrixCols=\count184
+\dotsspace@=\muskip16
+\c@parentequation=\count185
+\dspbrk@lvl=\count186
+\tag@help=\toks20
+\row@=\count187
+\column@=\count188
+\maxfields@=\count189
+\andhelp@=\toks21
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen163
+\lightrulewidth=\dimen164
+\cmidrulewidth=\dimen165
+\belowrulesep=\dimen166
+\belowbottomsep=\dimen167
+\aboverulesep=\dimen168
+\abovetopsep=\dimen169
+\cmidrulesep=\dimen170
+\cmidrulekern=\dimen171
+\defaultaddspace=\dimen172
+\@cmidla=\count190
+\@cmidlb=\count191
+\@aboverulesep=\dimen173
+\@belowrulesep=\dimen174
+\@thisruleclass=\count192
+\@lastruleclass=\count193
+\@thisrulewidth=\dimen175
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 147.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks24
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen176
+\epsfysize=\dimen177
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+
+Package epstopdf Warning: Drivers other than `pdftex' and `luatex' are not supp
+orted.
+
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count194
+\float@exts=\toks25
+\float@box=\box49
+\@float@everytoks=\toks26
+\@floatcapt=\box50
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-03-12-14:03
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen178
+\Gm@wd@mp=\dimen179
+\Gm@odd@mp=\dimen180
+\Gm@even@mp=\dimen181
+\Gm@layoutwidth=\dimen182
+\Gm@layoutheight=\dimen183
+\Gm@layouthoffset=\dimen184
+\Gm@layoutvoffset=\dimen185
+\Gm@dimlist=\toks27
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count198
+\multirow@dima=\skip53
+\bigstrutjot=\dimen186
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip54
+\bibsep=\skip55
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count199
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count266
+\rotFPtop=\skip56
+\rotFPbot=\skip57
+\rot@float@box=\box51
+\rot@mess@toks=\toks28
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-03-12-14:03
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen187
+\captionmargin@=\dimen188
+\captionwidth=\dimen189
+\caption@tempdima=\dimen190
+\caption@indent=\dimen191
+\caption@parindent=\dimen192
+\caption@hangindent=\dimen193
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count267
+\c@continuedfloat=\count268
+Package caption Info: float package is loaded.
+Package caption Info: rotating package is loaded.
+)
+\c@subfigure=\count269
+\c@subtable=\count270
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks29
+\verbatim@line=\toks30
+\verbatim@in@stream=\read2
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-03-12-14:03
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+\c@theorem=\count271
+\c@definition=\count272
+\c@proposition=\count273
+\c@lemma=\count274
+\c@hypothesis=\count275
+\c@corollary=\count276
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2020-03-12-14:03
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2020-02-18-14:17
+
+--- needs --- tex4ht motivation_auto ---
+\tmp:cnt=\count277
+\openout15 = `motivation_auto.tmp'.
+
+(./motivation_auto.tmp)
+\tmp:dim=\skip58
+--------------------------------------
+--- Note --- for XML code, use the command line option `xml' or `xhtml'
+--------------------------------------
+ (./motivation_auto.xref)
+\:refout=\write3
+\openout3 = `motivation_auto.xref'.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+)
+\:tokwrite=\toks31
+\:tokpage=\toks32
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `motivation_auto.4ct'.
+
+\:tocout=\write4
+\openout4 = `motivation_auto.4tc'.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2020-02-26-14:25
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2018-11-06-15:55
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/article.4ht
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/adjustbox.4ht
+version 2019-05-21-14:50
+\c@adjustbox@4ht=\count278
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2018-10-01-14:24
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/graphics.4ht
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amscd.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amsbsy.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amsfonts.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amsmath.4ht
+version 2019-12-29-14:17
+\tmp:muskip=\muskip17
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amstext.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amsopn.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amssymb.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/booktabs.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/color.4ht
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/dvipsnam.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/enumerate.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/epsfig.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/float.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/geometry.4ht
+version 2016-07-01-08:55
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/multirow.4ht
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/natbib.4ht
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/rotating.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/caption.4ht
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/verbatim.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2019-04-09-10:06
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/color.4ht)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count279
+\l__pdf_backend_content_box=\box53
+\l__pdf_backend_model_box=\box54
+\g__pdf_backend_annotation_int=\count280
+\g__pdf_backend_link_int=\count281
+\g__pdf_backend_link_sf_int=\count282
+)
+
+LaTeX Warning: Unused global option(s):
+    [openany].
+
+(./motivation_auto.aux)
+\openout1 = `motivation_auto.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
+7.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=426.79134pt
+* \textheight=556.47656pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-19.91692pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+--- file motivation_auto.css ---
+(./motivation_body.tex [1
+
+] [2
+
+]
+l.4 --- TeX4ht warning --- File `"figs/v2/correlation_over_time.xbb"' not found
+ ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "figs/v2/correla
+tion_over_time.xbb" (no BoundingBox) ---
+l. 4 --- needs --- figs/v2/correlation_over_time.png ---
+[3
+
+] [4
+
+] [5
+
+]
+l.12 --- TeX4ht warning --- File `"figs/v2/correlation_across_aggregate_variabl
+es.xbb"' not found ---
+l.12 --- TeX4ht warning --- Cannot determine size of graphic in "figs/v2/correl
+ation_across_aggregate_variables.xbb" (no BoundingBox) ---
+l. 12 --- needs --- figs/v2/correlation_across_aggregate_variables.png ---
+[6
+
+] (./tables/v2/correlation_over_time.tex [7
+
+] [8
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 5.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 7
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [9
+
+]) [10
+
+]
+(./tables/v2/correlation_conf_interval_across_variables.tex [11] [12
+
+] [13
+
+]))
+[14
+
+] (./motivation_auto.aux) ) 
+Here is how much of TeX's memory you used:
+ 11094 strings out of 480609
+ 156575 string characters out of 5903657
+ 547783 words of memory out of 5000000
+ 26613 multiletter control sequences out of 15000+600000
+ 539501 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,6n,121p,971b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on motivation_auto.dvi (14 pages, 76948 bytes).
