@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1616379777 "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.tex" "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.pdf" "motivation_auto" 1616379779
+["pdflatex"] 1616379777 "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.tex" "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.pdf" "motivation_auto" 1616380608
   "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.aux" 1616379779 1293 2fc889534f7b7109e90600b78563f54e ""
   "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.tex" 1616379734 2594 ec5cb08a9d5176c365c9e79a5a3d9191 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -96,16 +96,16 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "figs/v2/correlation_across_aggregate_variables.png" 1616379734 294911 f78f5a3551b3b693f9cce8e0fff1b334 ""
-  "figs/v2/correlation_over_time.png" 1616379734 309725 69faf64feaac92487ed71702bf2a08dc ""
+  "figs/v2/correlation_across_aggregate_variables.png" 1616380607 294911 f78f5a3551b3b693f9cce8e0fff1b334 ""
+  "figs/v2/correlation_over_time.png" 1616380607 309725 69faf64feaac92487ed71702bf2a08dc ""
   "motivation_auto.aux" 1616379779 1293 2fc889534f7b7109e90600b78563f54e "pdflatex"
   "motivation_auto.tex" 1616379734 2594 ec5cb08a9d5176c365c9e79a5a3d9191 ""
   "motivation_body.tex" 1616379734 639 c1870b63debe1344e826480e6678ae6f ""
   "tables/v2/correlation_conf_interval_across_variables.tex" 1616379777 4982 74c53f99bfea753282cec13999fb5469 ""
   "tables/v2/correlation_over_time.tex" 1616379734 522 68254ad9df5b49eb5b3be2529f7fba07 ""
   (generated)
-  "motivation_auto.aux"
+  "motivation_auto.log"
+  "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.pdf"
   "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.log"
   "motivation_auto.pdf"
-  "/Users/rhossein/codes/openwings/motivation/latex/motivation_auto.pdf"
-  "motivation_auto.log"
+  "motivation_auto.aux"
